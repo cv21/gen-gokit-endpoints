@@ -1,0 +1,8 @@
+files:
+  - path: ./generator/endpoints.go
+    repository: github.com/cv21/gen-generator-base@v1.0.0
+    params:
+      repository: github.com/cv21/gen-gokit-endpoints@v1.0.0
+      params_structure_name: generatorParams
+
+
